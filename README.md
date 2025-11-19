@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm **Abhi**
 
-<!--
-**Abhikute9299/Abhikute9299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 *DevOps Engineer | Cloud Engineer | Linux Engineer*
 
-Here are some ideas to get you started:
+🌐 Passionate about automating, monitoring, and optimizing infrastructure.
+☁️ Skilled in AWS, CI/CD pipelines, Linux systems, containerization, and IaC.
+⚙️ I love building reliable, scalable, production-ready systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 **Tech Stack & Skills**
+
+### 🛠 **DevOps Tools**
+
+* 🐳 Docker
+* 🎛 Kubernetes (K8s)
+* 🔁 Jenkins (CI/CD Pipelines)
+* 📦 Ansible
+* 📐 Terraform
+* 📊 Prometheus & Grafana
+* 🔥 Git, GitHub, GitLab
+
+### ☁️ **Cloud Platform**
+
+* 🌩 **AWS**: EC2, VPC, IAM, S3, CloudWatch, Load Balancer, ASG, Lambda, RDS
+* 🌍 Cloud Networking & Security Groups
+* 🛰 Route53, CloudFront
+
+### 🐧 **Linux Engineering**
+
+* 🖥 Advanced Linux Administration
+* 🧩 Shell Scripting (Bash)
+* 📂 File systems, ACL, Permissions
+* 🧵 Process Management
+* 🔍 Monitoring & Logs
+
+---
+
+## 🚀 **What I Do**
+
+* Build and maintain CI/CD pipelines
+* Manage cloud infrastructure using Terraform
+* Automate deployments & configurations
+* Containerize applications with Docker
+* Work with Kubernetes clusters
+* Monitor infrastructure & optimize performance
+* Manage and harden Linux servers
+
+---
+
+## 📈 **Current Focus**
+
+* Improving cloud cost optimization
+* Learning advanced Kubernetes
+* Automating everything (because why not 😄)
+
+---
+
+## 📫 **Connect With Me**
+
+* ✉️ Email: abhishekkute9@gmail.com
+* 💼 LinkedIn: Abhishek Kute
+
+

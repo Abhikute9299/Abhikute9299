@@ -34,6 +34,8 @@
 ### ☁️ **Cloud Platform**
 
 * 🌩 **AWS**: EC2, VPC, IAM, S3, CloudWatch, Load Balancer, ASG, Lambda, RDS
+* **AZURE**
+* **GCP**
 * 🌍 Cloud Networking & Security Groups
 * 🛰 Route53, CloudFront
 
